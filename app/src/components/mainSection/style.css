@@ -1,0 +1,14 @@
+main{    
+    text-align: center;
+    padding: 50px;
+}
+main img{
+    border-radius: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px #000;
+}
+main p{
+    color: #4b5563;
+    width: 700px;
+    margin: 0 auto;
+}
